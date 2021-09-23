@@ -1,5 +1,5 @@
 # sistemaDeVacina
 
-<img scr="gif.gif">
+<img src="gif.gif">
 
 ##
